@@ -1,13 +1,11 @@
 # Ari Friedman
-| |
-|---|
-| arifr1234@gmail.com |
+arifr1234@gmail.com
 
 ## [My shadertoy profile](https://www.shadertoy.com/user/arifr123)
-| | | |
-|---|---|---|
-| ![image1](https://github.com/user-attachments/assets/c90cf09d-122d-4858-ae17-491d5ddf9c2b) | ![image2](https://github.com/user-attachments/assets/e93314de-6f8c-431d-89f1-9619504a8074) | ![image3](https://github.com/user-attachments/assets/7725844f-c151-41c7-bf28-4e4bd6003dc8) |
-| ![image4](https://github.com/user-attachments/assets/359ca90b-2756-4db0-8644-8489ac464a7b) | ![image5](https://github.com/user-attachments/assets/d34eaeb7-3442-4741-83d7-a37f6c1b94f8) | ![image6](https://github.com/user-attachments/assets/8c746091-65fc-4f71-b935-2ddfaa050719) |
+
+![image1](https://github.com/user-attachments/assets/c90cf09d-122d-4858-ae17-491d5ddf9c2b) ![image2](https://github.com/user-attachments/assets/e93314de-6f8c-431d-89f1-9619504a8074)  
+![image3](https://github.com/user-attachments/assets/7725844f-c151-41c7-bf28-4e4bd6003dc8) ![image4](https://github.com/user-attachments/assets/359ca90b-2756-4db0-8644-8489ac464a7b)  
+![image5](https://github.com/user-attachments/assets/d34eaeb7-3442-4741-83d7-a37f6c1b94f8) ![image6](https://github.com/user-attachments/assets/8c746091-65fc-4f71-b935-2ddfaa050719)  
 
 ## Websites
 Old projects that are also websites.
