@@ -1,6 +1,7 @@
-# arifr1234
-
-arifr1234@gmail.com
+# Ari Friedman
+| |
+|---|
+| arifr1234@gmail.com |
 
 ## [My shadertoy profile](https://www.shadertoy.com/user/arifr123)
 | | | |
