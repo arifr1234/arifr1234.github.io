@@ -9,7 +9,7 @@ arifr1234@gmail.com
 | ![image4](https://github.com/user-attachments/assets/359ca90b-2756-4db0-8644-8489ac464a7b) | ![image5](https://github.com/user-attachments/assets/d34eaeb7-3442-4741-83d7-a37f6c1b94f8) | ![image6](https://github.com/user-attachments/assets/8c746091-65fc-4f71-b935-2ddfaa050719) |
 
 ## Websites
-Old projects that are websites.
+Old projects that are also websites.
 
 ### [wikipedia-graph](https://arifr1234.github.io/wikipedia-graph/)
 Track the Wikipedia pages you visit and the network of links between them.
@@ -29,5 +29,5 @@ Same as the last one, but for parametric surfaces instead of implicit surfaces.
 It's a lot less interesting because plotters of parametric surfaces are a lot more common and a lot better (also true for animated parametric surface plotters), but still it's cool because it's [shadertoy](https://www.shadertoy.com/)-style hard mode, using mostly a fragment shader (in that sense it is novel).
 
 #### [clifford-torus](https://arifr1234.github.io/clifford-torus)
-![image8](https://github.com/user-attachments/assets/eebd7d48-e877-4996-b126-53041a001b85)
-The name of the repo is misleading, this is another parametric surfaces ploter, this time more traditional. The interesting thing here is that the normals of the surface are calculated in real time on the GPU. This by itself isn't novel because it can be done using a compute shader or a geometry shader, but WebGL does not support these kinds of shaders, so I figured out a clever trick to use another vertex shader that acts as a primitive geometry shader.
+![image8](https://github.com/user-attachments/assets/eebd7d48-e877-4996-b126-53041a001b85)  
+The name of the repo is misleading, this is another parametric surfaces ploter, but this time more traditional. The interesting thing here is that the normals of the surface are calculated in real time on the GPU. This by itself isn't novel because it can be done using a compute shader or a geometry shader, but WebGL does not support these kinds of shaders, so I figured out a clever trick to use another vertex shader that acts as a primitive geometry shader.
