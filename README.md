@@ -1,5 +1,5 @@
 # Ari Friedman
-https://github.com/arifr1234
+https://github.com/arifr1234  
 arifr1234@gmail.com
 
 ## [My shadertoy profile](https://www.shadertoy.com/user/arifr123)
