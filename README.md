@@ -1,5 +1,5 @@
 # Ari Friedman
-https://github.com/arifr1234  
+[GitHub](https://github.com/arifr1234)  
 arifr1234@gmail.com
 
 ## [My shadertoy profile](https://www.shadertoy.com/user/arifr123)
@@ -14,7 +14,7 @@ Old projects that are also websites.
 ### [wikipedia-graph](https://arifr1234.github.io/wikipedia-graph/)
 Track the Wikipedia pages you visit and the network of links between them.  
 ![110713750-1dbb5700-820b-11eb-868c-07fb6b61b241](https://github.com/user-attachments/assets/a92153af-45f5-4063-a0cf-46f62346a777)  
-For more info, see https://github.com/arifr1234/wikipedia-graph#wikipedia-graph.
+For more info, see [the README](https://github.com/arifr1234/wikipedia-graph#wikipedia-graph).
 
 ### Esoteric 3d graphics
 #### [implicit-equation-plotter](https://arifr1234.github.io/implicit-equation-plotter/)
